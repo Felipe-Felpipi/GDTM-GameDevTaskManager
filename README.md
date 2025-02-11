@@ -29,4 +29,7 @@ O **GDTM** é um gerenciador de tarefas simples e eficiente, desenvolvido especi
 - JavaFX (já incluído no projeto).
 
 ### Como abrir o programa
+- Descompacte o arquivo .zip na Área de Trabalho (ou onde desejar).
+- Abra a pasta extraida.
 - Basta clicar no atalho "Game Dev Task Manager.lnk" e o programa deverá funcionar!
+- Você pode mover o atalho para onde quiser!
